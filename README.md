@@ -1,2 +1,2 @@
 # getArrayIndex
-get array element sorted index 
+get array element sorted index in c++
